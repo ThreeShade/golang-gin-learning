@@ -34,9 +34,9 @@
 ### Day 1 — Go Setup & Basics
 
 **Morning**
-- [ ] Install Go from golang.org/dl and set up VS Code with the official Go extension
-- [ ] Complete `tour.golang.org` — Basics section (variables, types, functions)
-- [ ] Read: how Go differs from JS — static types, zero values, no `undefined`, no `null`
+- [x] Install Go from golang.org/dl and set up VS Code with the official Go extension
+- [x] Complete `tour.golang.org` — Basics section (variables, types, functions)
+- [x] Read: how Go differs from JS — static types, zero values, no `undefined`, no `null`
 
 **Evening**
 - [ ] Write a hello world program and run it with `go run`
