@@ -1,6 +1,6 @@
 ##  Arrays and Slices
 
-### Arrays
+### Arrays 
 - **Fixed size** — size is part of the type
 - `[3]int` and `[5]int` are **different types**
 - Rarely used in practice
