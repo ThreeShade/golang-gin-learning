@@ -45,7 +45,7 @@ fmt.Println(cap(s))   // 5 — allocated space
 Cap is counted from the **starting index to the end of the original array:**
 ```go
 s := []int{1, 2, 3, 4, 5}   // cap=5
-s2 := s[1:4]                  // starts at index 1
+s2 := s[1:4]                   // starts at index 1
 
 fmt.Println(s2)        // [2 3 4]
 fmt.Println(len(s2))   // 3
