@@ -14,7 +14,7 @@ for i := 1; i < 6; i++ {
 
 ### For as While Loop
 ```go
-x := 0
+x := 0 
 for x < 10 {
     x++
 }
