@@ -4,7 +4,6 @@
 
 ## For Loop
 
-
 ### Basic For Loop
 ```go
 // No parentheses () in Go!
