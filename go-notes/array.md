@@ -1,5 +1,5 @@
 # Go — Arrays
-
+ 
 ---
 
 ## What is an Array?
